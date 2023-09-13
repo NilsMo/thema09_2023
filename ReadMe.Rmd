@@ -1,0 +1,17 @@
+---
+title: "ReadMe"
+author: "Nils Mooldijk"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Author: Nils Mooldijk
+Project: Thema 09
+Client: Hanze Hogeschool
+
+Contents:
+Log_Thema09_23_NilsMooldijk.Rmd
